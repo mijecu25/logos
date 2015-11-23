@@ -2,7 +2,7 @@
 
 Logos used by Mijecu25
 
-==========
+## License
 
 Copyright (c) 2015 Miguel Velez
 
